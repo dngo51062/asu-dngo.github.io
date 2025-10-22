@@ -1,10 +1,11 @@
 ## Hi there 👋
-
+My name is Dat! I am currently an active-duty servicemember stationed in Maryland and just transfered to ASU last fall.
+Current obsession includes Stardew Valley and FPV drone (which I just got into it not too long ago).
+Nice to meet you!
 <!--
 **dngo51062/dngo51062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
